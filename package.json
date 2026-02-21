@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-quantum-edge-processor-dev-zsd",
+  "version": "1.0.0",
+  "description": "Enterprise-grade service layer",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "quantum-edge-processor-dev-zsd"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-quantum-edge-processor-dev-zsd.git"
+  }
+}
